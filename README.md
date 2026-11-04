@@ -10,7 +10,7 @@ I like building things people actually use, especially when the user isn't someo
 
 A voice assistant that helps older adults live independently: it reminds them about medication, checks in on how they're doing, and lets them just talk instead of navigating an app. Family members and doctors get a dashboard to stay in the loop.
 
-My undergraduate thesis. Presented at BCI 2026 and to appear in the Springer CSIS conference proceedings.
+My undergraduate thesis. Presented at BCI 2026 and to appear in the Springer CCIS conference proceedings.
 
 **Built with:** Python · FastAPI · Streamlit · SQLAlchemy · Gemini Live API · scikit-learn
 
